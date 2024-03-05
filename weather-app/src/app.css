@@ -1,0 +1,44 @@
+.main{
+    background-color: #82CAFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    margin-top: 10vh;
+    flex-direction: column;
+
+}
+
+.img{
+    padding-top: 5vh;
+}
+
+.loc{
+    display: flex;
+    padding-top: 5vh;
+}
+
+.loc>span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6vh;
+    font-weight: 900;
+    /* color: whitesmoke; */
+}
+
+.ctemp>p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6vh;
+    font-weight: 900;
+    margin-bottom: 0;
+    color: whitesmoke;
+}
+
+.minmax{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3vh;
+    /* font-weight: 900; */
+    margin-bottom: 0;
+    color: whitesmoke;
+}
+}
